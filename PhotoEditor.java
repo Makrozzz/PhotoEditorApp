@@ -1080,6 +1080,6 @@ public class PhotoEditor extends JFrame {
     
     public static void main(String[] args) {
          SwingUtilities.invokeLater(()->new PhotoEditor());
-            System.out.Println("test");
+        
     }    
 }
